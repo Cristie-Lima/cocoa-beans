@@ -9,9 +9,9 @@ Disciplina: Machine Learning Aplicada 2
 Professor: Prof. Dr. Juan Gabriel Colonna
 
 
-📂 Repositório do Projeto Acadêmico no GitHub: [cocoa-beans] (https://github.com/Cristie-Lima/cocoa-beans/)
+📂 Repositório do Projeto Acadêmico no GitHub: [cocoa-beans](https://github.com/Cristie-Lima/cocoa-beans/)
 
-📂 Dataset:[pendente] (pendente)
+📂 Dataset:[pendente](pendente)
 
 📂 Relatório: <pendente>
 
