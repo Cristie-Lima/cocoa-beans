@@ -1,8 +1,18 @@
-# cocoa-beans
+README
+📊 Pós-graduação em Ciência de Dados (2025/2026)
+Escola Superior de Tecnologia da Universidade Estadual do Amazonas - EST/UEA
+Disciplina: Machine Learning Aplicada 2
+Professor: Prof. Dr. Juan Gabriel Colonna
+
+📂 Repositório do Projeto Acadêmico no GitHub: #cocoa-beans
+📂 Relatório: <pendente>
+
 Projeto de Classificação de Sementes de Cacau
 
 Integrante da Equipe (Unitária): A. Cristiane R. Lima (Cristie Lima)
 
+
+-----------------------------------
 (A informação abaixo foi extraída integralmente do documento - elaborado pela Coordenadora Pedagógica do Curso de Pòs-graduação em Ciência de Dados - cujo nome é "Ciência de Dados - Trabalho Complementar ML2.pdf":)
 
 Trabalho Pedagógico Complementar
