@@ -1,12 +1,20 @@
 📊 Pós-graduação em Ciência de Dados (2025/2026)
 
+
 Escola Superior de Tecnologia da Universidade Estadual do Amazonas - EST/UEA
 
+
 Disciplina: Machine Learning Aplicada 2
+
 Professor: Prof. Dr. Juan Gabriel Colonna
 
-📂 Repositório do Projeto Acadêmico no GitHub: #cocoa-beans
+
+📂 Repositório do Projeto Acadêmico no GitHub: [cocoa-beans] (https://github.com/Cristie-Lima/cocoa-beans/)
+
+📂 Dataset:[pendente] (pendente)
+
 📂 Relatório: <pendente>
+
 
 Projeto de Classificação de Sementes de Cacau
 
